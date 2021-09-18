@@ -1,1 +1,3 @@
-# templateFun
+# Templates are Fun
+
+Says everyone.
